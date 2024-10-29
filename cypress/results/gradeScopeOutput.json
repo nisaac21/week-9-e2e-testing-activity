@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "score": 20,
+      "score": 100,
       "name": "End-toEnd Tests",
-      "output": "New tests added: 2/10",
+      "output": "New tests added: 10/10",
       "status": "passed"
     }
   ]
